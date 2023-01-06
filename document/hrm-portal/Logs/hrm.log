@@ -1,0 +1,11 @@
+08-05-2022 12:15:40  INFO [localhost-startStop-1] (com.scala.hrm.audit.jobscheduler.ScheduleJob) >>>> In purge data Job
+08-05-2022 12:16:38  INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] (com.scala.hrm.audit.jobscheduler.ScheduleJob) >>>> In purge data Job
+08-05-2022 12:17:51  INFO [localhost-startStop-1] (com.scala.hrm.audit.jobscheduler.ScheduleJob) >>>> In purge data Job
+08-05-2022 12:18:00  INFO [DefaultQuartzScheduler_Worker-1] (com.scala.hrm.audit.job.PurgeDataJob) >>>> -------------PurgeDataJob---------------
+08-05-2022 12:18:00  INFO [DefaultQuartzScheduler_Worker-1] (com.scala.hrm.audit.job.PurgeDataJob) >>>> ----------------------------------------
+08-05-2022 12:18:00  INFO [DefaultQuartzScheduler_Worker-1] (com.scala.hrm.audit.job.PurgeDataJob) >>>> -----READ OLD DATA METHOD-----
+08-05-2022 12:18:00  INFO [DefaultQuartzScheduler_Worker-1] (com.scala.hrm.audit.job.PurgeDataJob) >>>> -----REMOVING OLD DATA COMPLETED-----
+08-05-2022 12:19:00  INFO [DefaultQuartzScheduler_Worker-2] (com.scala.hrm.audit.job.PurgeDataJob) >>>> -------------PurgeDataJob---------------
+08-05-2022 12:19:00  INFO [DefaultQuartzScheduler_Worker-2] (com.scala.hrm.audit.job.PurgeDataJob) >>>> ----------------------------------------
+08-05-2022 12:19:00  INFO [DefaultQuartzScheduler_Worker-2] (com.scala.hrm.audit.job.PurgeDataJob) >>>> -----READ OLD DATA METHOD-----
+08-05-2022 12:19:00  INFO [DefaultQuartzScheduler_Worker-2] (com.scala.hrm.audit.job.PurgeDataJob) >>>> -----REMOVING OLD DATA COMPLETED-----
