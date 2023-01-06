@@ -1,0 +1,12 @@
+** Migration "employees" table command
+	php artisan migrate:refresh --path=database/migrations/2022_10_20_112856_create_employees_table.php
+
+**Create Seeder
+	php artisan make:seeder UserSeeder
+
+**Employees seeder command
+	php artisan db:seed --class=EmployeesSeeder
+
+
+**Create model, controller and migration
+	php artisan make:model classname -mcr
