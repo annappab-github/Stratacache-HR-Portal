@@ -1,0 +1,4 @@
+----------master_flight_override updates---------------
+Update flight_type to arrival or departure
+Update is_custom to true or 1
+Update airline_iata_code and airline_code_type to a value present in airline table

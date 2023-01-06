@@ -1,0 +1,32 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+// Regular font family
+$text-font-stack: 'Open Sans', Arial, sans-serif !default;
+
+// Container's maximum width
+$max-width: 100% !default;
+
+// Container's maximum height
+$max-height: 100% !default;
+
+// Brand Colors
+$general-white: #ffffff;
+$general-black: #000000;
+$general-black-light: hsl(240, 1%, 25%);
+$general-gray-light:hsl(0, 0%, 97%);
+
+$brand-primary: hsl(211, 100%, 50%);
+$brand-primary-light:hsl(211, 100%, 97%);
+$brand-primary-dark: hsl(211, 100%, 35%);
+
+$brand-primary-button: hsl(211, 100%, 50%);
+$brand-primary-button-hover:hsl(211, 100%, 60%);
+$brand-primary-button-disabled:hsl(211, 100%, 87%);
+$brand-tertiary-button-hover:hsl(211, 100%, 97%);
+
+$brand-danger-button: hsl(0, 100%, 63%);
+$brand-danger-button-hover:hsl(0, 100%, 73%);
+$brand-danger-button-disabled:hsl(0, 100%, 90%);
+$brand-danger-button-hover:hsl(0, 100%, 97%);

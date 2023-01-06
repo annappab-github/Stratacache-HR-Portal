@@ -1,0 +1,26 @@
+@charset 'UTF-8';
+
+// 1. Configuration and helpers
+@import
+  'variables';
+
+// 2. Vendors
+@import
+  'normalize';
+
+// 3. Base stuff
+@import
+  'typography',
+  'base',
+  'fonts';
+
+// 4. Layout-related sections
+@import
+  'common';
+
+// 5. Components - since we're including component specific CSS in vue sfc, do not use here
+@import
+  'component-transitions';
+// 6. Page-specific styles - since we're including page specific CSS in vue sfc, do not use here
+
+// 7. Themes - we're not themeing this application, do not use here

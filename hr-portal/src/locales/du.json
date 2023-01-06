@@ -1,0 +1,174 @@
+{
+  "app": {
+    "title": "Stratacache HR-portal"
+  },
+  "menu": {
+    "menuName": "Menu",
+    "flightmanager": "Vluchtmanager",
+    "gateManager": "Gate Manager",
+    "manageUser": "Gebruiker beheren",
+    "manageRole": "Rol beheren",
+    "managePermission": "Toestemming beheren",
+    "dashboard": "Du Dashboard"
+
+
+
+  },
+  "tabs": {
+    "departure": "Vertrek",
+    "arrival": "aankomsten",
+    "all": "Allemaal"
+  },
+  "search": {
+    "placeholder": "Zoeken op ID, luchtvaartmaatschappij of vlucht #",
+    "roleplaceholder": "du Search roles",
+    "userplaceholder": " du Search Users",
+    "gateplaceholder": "du Search Gates",
+    "auditplaceholder":"du Search Audits",
+    "stationplaceholder":"du Search Station",
+    "platformplaceholder": "du Search Platform"
+
+  },
+  
+  "login": {
+    "title": "LOG IN",
+    "name": "naam",
+    "password": "wachtwoord",
+    "btnName": "LOG IN",
+    "newUser": "Nieuwe gebruiker?",
+    "newRegister": "Registreer hier"
+  },
+  "nav": {
+    "login": "Log in",
+    "logout": "Uitloggen",
+    "register": "Registreer"
+  },
+  "register": {
+    "title": "ACCOUNT AANMAKEN",
+    "name": "Naam",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "confirmPassword": "bevestig wachtwoord",
+    "btnRegister": "Registreer",
+    "alreadyhaveaccount": "Heb al een account?",
+    "loginHere": "Hier inloggen"
+  },
+  "roles": {
+    "title": "Rolbeheer",
+    "Id": "ID kaart",
+    "name": "Name",
+    "action": "Action"
+  },
+  "createRole": {
+    "title": "Rol naam",
+    "assignPermission": "Toestemming toewijzen",
+    "btnRole": "Rollen maken",
+    "editBtn": "du Update Role"
+
+  },
+  "user": {
+    "title": "Gebruikersbeheer",
+    "Id": "ID kaart",
+    "name": "Naam",
+    "email": "E-mail",
+    "role": "Rol",
+    "action": "Actie"
+  },
+  "createUser": {
+    "title": "Gebruiker maken",
+    "name": "Naam",
+    "email": "E-mail",
+    "role": "Rol",
+    "password": "Wachtwoord",
+    "btnSubmit": "Indienen"
+  },
+  "gateTab": {
+    "enabled": "du Enabled",
+    "disabled": "du Disabled",
+    "all": "du All"
+  },
+  "queue": {
+    "createqueue": {
+      "title": "du Create Queue",
+      "name": "du Name",
+      "description": "du Description",
+      "attributes": "du Attribute",
+      "isactive": "du Is Active?"
+    },
+    "editqueue": {
+      "title": "du Edit Queue",
+      "editbtn":"du Update Queue"
+    },
+
+    "editqueueitems": {
+      "title": "Du Edit Items",
+      "identifier": "Du Identifier Attribute",
+      "isprocessed": "Du Is Processed",
+      "payload": "Du Payload",
+      "editbtn": "Du Update Item"
+    }
+    
+  },
+  "attribute": {
+    "createattribute": {
+      "title": "du Create Attribute",
+      "name": "du Name",
+      "description": "du Description",
+      "datatype": "du Data-Type"
+    },
+    "editattribute": {
+      "title": "du Edit Attribute",
+      "editbtn": "du Update Attribute"
+    }
+  },
+
+  "audits": {
+    "datepicker-title": "Audit Reports:",
+    "pdfbtn": "PDF",
+    "csvbtn": "CSV",
+    "excelbtn": "EXCEL",
+    "downloadbtn": "Download Reports",
+
+    "auditsTable": {
+      "User":"User",
+      "Audit-Type": "Audit Type",
+      "Audit-ID": "Audit ID",
+      "Old-Values": "Old Values",
+      "New-Values":"New Values",
+      "Event": "Event",
+      "Time": "Time",
+      "IP-Address": "IP Address"
+    }
+  },
+
+  "stations": {
+    "createstation": {
+      "stationname": "Du Name",
+      "location": "Du Location",
+      "state": "Du State",
+      "city": "Du City",
+      "isenabled": "Du Is Enabled",
+      "action": "Du Action"
+    }
+  },
+
+  "trainsignals": {
+    "managesignals": {
+      "station": "Station",
+      "platform": "Platform",
+      "arrivaltime": "Arrival Time",
+      "departuretime": "Departure Time",
+      "destinationtime": "Destination Time"
+    }
+  },
+  "platforms": {
+    "createplatform": {
+      "platformid": "Du Platform ID",
+      "platformname": "Du Platform Name",
+      "stationname": "Du Station Name",
+      "isenabled": "Du Is Enabled",
+      "action": "Du Action"
+
+    }
+  }
+}

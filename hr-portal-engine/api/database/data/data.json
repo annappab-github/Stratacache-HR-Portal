@@ -1,0 +1,624 @@
+{
+    "holiday": [
+        {
+            "regionname" : "IN",
+            "holidaydetails": [
+                {
+                    "date": "2023-01-02",
+                    "holidayname": "New Year’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-26",
+                    "holidayname": "Republic Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-16",
+                    "holidayname": "Pongal",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-02-06",
+                    "holidayname": "Hazarat Ali’s Birthday/Guru Ravidas’s Birthday",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-02-15",
+                    "holidayname": "Swami Dayananda Saraswati Jayanti",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-02-20",
+                    "holidayname": "Shivaji Jayanti",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-03-07",
+                    "holidayname": "Holika Dahan, Dolyatra",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-03-08",
+                    "holidayname": "Holi",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-03-22",
+                    "holidayname": "Chaitra Sukladi/Gudi Padava/Ugadi/Cheti Chand",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-03-30",
+                    "holidayname": "Ram Navami",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-04",
+                    "holidayname": "Mahavir Jayanti",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-07",
+                    "holidayname": "Good Friday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-10",
+                    "holidayname": "Easter Sunday",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-04-14",
+                    "holidayname": "Vaisakhi/Vishu/Meshadi",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-04-21",
+                    "holidayname": "Jamat-Ul-Vida",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-05-05",
+                    "holidayname": "Buddha Purnima",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-09",
+                    "holidayname": "Guru Rabindranath’s Birthday",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-06-20",
+                    "holidayname": "Rath Yatra",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-06-29",
+                    "holidayname": "Id-ul-Zuha",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-08-15",
+                    "holidayname": "Independence Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-08-16",
+                    "holidayname": "Parsi New Year/Nauraj",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-08-21",
+                    "holidayname": "Vinayaka Chaturthi",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-08-29",
+                    "holidayname": "Onam/ Thiru Onam Day",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-08-30",
+                    "holidayname": "Raksha Bandhan",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-09-06",
+                    "holidayname": "Janmashtami",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-09-07",
+                    "holidayname": "Janmashtami",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-09-19",
+                    "holidayname": "Ganesh Chaturthi",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-09-28",
+                    "holidayname": "Milad-un-Nabi (Birthday of Prophet Mohammad)",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-10-02",
+                    "holidayname": "Mahatma Gandhi’s Birthday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-10-22",
+                    "holidayname": "Dussehra (Maha Ashtami)",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-10-23",
+                    "holidayname": "Dussehra (Maha Navmi)",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-10-24",
+                    "holidayname": "Dussehra",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-11-01",
+                    "holidayname": "Karaka Chaturthi (Karva Chouth)",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-11-13",
+                    "holidayname": "Diwali",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-11-13",
+                    "holidayname": "Govardhan Puja",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-11-15",
+                    "holidayname": "Bhai Duj Pratihar",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-11-20",
+                    "holidayname": "Sashthi or Surya Sashthi",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-11-24",
+                    "holidayname": "Guru Teg Bahadur’s Martyrdom Day",
+                    "type": "optional"
+                },
+                {
+                    "date": "2023-11-27",
+                    "holidayname": "Guru Nanak’s Birthday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-25",
+                    "holidayname": "Christmas Day",
+                    "type": "public"
+                }
+            ]
+        },
+        {
+            "regionname" : "SG",
+            "holidaydetails": [
+                {
+                    "date": "2023-01-02",
+                    "holidayname": "New Year’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-23",
+                    "holidayname": "Chinese New Year",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-24",
+                    "holidayname": "Chinese New Year",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-07",
+                    "holidayname": "Good Friday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-22",
+                    "holidayname": "Hari Raya Puasa",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-01",
+                    "holidayname": "Labour Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-06-02",
+                    "holidayname": "Vesak Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-06-29",
+                    "holidayname": "Hari Raya Haji",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-08-09",
+                    "holidayname": "National Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-11-13",
+                    "holidayname": "Deepavali",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-25",
+                    "holidayname": "Christmas Day",
+                    "type": "public"
+                }
+            ]
+        },
+        {
+            "regionname" : "MY",
+            "holidaydetails": [
+                {
+                    "date": "2023-01-02",
+                    "holidayname": "New Year’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-23",
+                    "holidayname": "Chinese New Year",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-24",
+                    "holidayname": "Chinese New Year",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-07",
+                    "holidayname": "Good Friday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-22",
+                    "holidayname": "Hari Raya Puasa",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-01",
+                    "holidayname": "Labour Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-06-02",
+                    "holidayname": "Vesak Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-06-29",
+                    "holidayname": "Hari Raya Haji",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-08-09",
+                    "holidayname": "National Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-11-13",
+                    "holidayname": "Deepavali",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-25",
+                    "holidayname": "Christmas Day",
+                    "type": "public"
+                }
+            ]
+        },
+        {
+            "regionname" : "PH",
+            "holidaydetails": [
+                {
+                    "date": "2023-01-02",
+                    "holidayname": "New Year’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-06",
+                    "holidayname": "Maundy Thursday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-07",
+                    "holidayname": "Good Friday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-08",
+                    "holidayname": "Black Saturday",
+                    "type": "public (Special Non-Working Day)"
+                },
+                {
+                    "date": "2023-04-10",
+                    "holidayname": "Araw ng Kagitingan",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-01",
+                    "holidayname": "Labour Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-06-12",
+                    "holidayname": "Independence Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-08-21",
+                    "holidayname": "Ninoy Aquino Day",
+                    "type": "public (Special Non-Working Day)"
+                },
+                {
+                    "date": "2023-08-28",
+                    "holidayname": "National Hero’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-11-01",
+                    "holidayname": "All Saints Day",
+                    "type": "public (Special Non-Working Day)"
+                },
+                {
+                    "date": "2023-11-02",
+                    "holidayname": "Additional Special Non-Working Day",
+                    "type": "public (Special Non-Working Day)"
+                },
+                {
+                    "date": "2023-11-30",
+                    "holidayname": "Bonifacio Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-08",
+                    "holidayname": "Feast of the Immaculate Conception of Mary",
+                    "type": "public (Special Non-Working Day)"
+                },
+                {
+                    "date": "2023-12-25",
+                    "holidayname": "Christmas Day",
+                    "type": "public"
+                }
+            ]
+        },
+        {
+            "regionname" : "HK",
+            "holidaydetails": [
+                {
+                    "date": "2023-01-02",
+                    "holidayname": "New Year’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-23",
+                    "holidayname": "Chinese New Year",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-24",
+                    "holidayname": "Chinese New Year",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-25",
+                    "holidayname": "4th Day of Chinese New Year",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-05",
+                    "holidayname": "Ching Ming Festival",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-07",
+                    "holidayname": "Good Friday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-10",
+                    "holidayname": "Easter Monday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-01",
+                    "holidayname": "Labour Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-26",
+                    "holidayname": "The Birthday of Buddha",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-06-22",
+                    "holidayname": "Tuen Ng Festival",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-10-02",
+                    "holidayname": "National Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-10-23",
+                    "holidayname": "Chung Yeung Festival",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-25",
+                    "holidayname": "Christmas Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-26",
+                    "holidayname": "First Weekday after Christmas Day",
+                    "type": "public"
+                }
+            ]
+        },
+        {
+            "regionname" : "JP",
+            "holidaydetails": [
+                {
+                    "date": "2023-01-02",
+                    "holidayname": "New Year’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-09",
+                    "holidayname": "Coming of Age Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-02-11",
+                    "holidayname": "National Foundation Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-02-23",
+                    "holidayname": "The Emperor’s Birthday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-03-21",
+                    "holidayname": "Vernal Equinox Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-29",
+                    "holidayname": "Showa Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-03",
+                    "holidayname": "Constitution Memorial Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-04",
+                    "holidayname": "Greenery Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-05",
+                    "holidayname": "Children’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-07-17",
+                    "holidayname": "Marine Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-08-11",
+                    "holidayname": "Mountain Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-09-18",
+                    "holidayname": "Respect for the Aged Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-09-23",
+                    "holidayname": "Autumnal Equinox Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-10-09",
+                    "holidayname": "Health & Sports Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-11-03",
+                    "holidayname": "Culture Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-11-23",
+                    "holidayname": "Labour Thanksgiving Day",
+                    "type": "public"
+                }
+            ]
+        },
+        {
+            "regionname" : "AU",
+            "holidaydetails": [
+                {
+                    "date": "2023-01-02",
+                    "holidayname": "New Year’s Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-01-26",
+                    "holidayname": "Australia Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-03-13",
+                    "holidayname": "Canberra Day",
+                    "type": "public (CBR)"
+                },
+                {
+                    "date": "2023-04-07",
+                    "holidayname": "Good Friday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-10",
+                    "holidayname": "Easter Monday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-04-25",
+                    "holidayname": "Anzac Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-05-29",
+                    "holidayname": "Reconciliation Day",
+                    "type": "public (CBR)"
+                },
+                {
+                    "date": "2023-06-12",
+                    "holidayname": "King’s Birthday",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-10-02",
+                    "holidayname": "Labour Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-25",
+                    "holidayname": "Christmas Day",
+                    "type": "public"
+                },
+                {
+                    "date": "2023-12-26",
+                    "holidayname": "Boxing Day",
+                    "type": "public"
+                }
+            ]
+        }
+    ]
+}

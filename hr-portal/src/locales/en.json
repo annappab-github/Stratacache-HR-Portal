@@ -1,0 +1,207 @@
+{
+  "app": {
+    "title": "Stratacache HR Portal"
+  },
+  "menu": {
+    "menuName": "Menu",
+    "flightmanager": "Flight Manager",
+    "gateManager": "Gate Manager",
+    "manageUser": "Manage User",
+    "manageRole": "Manage Role",
+    "managePermission": "Manage Permission",
+    "dashboard": "Dashboard"
+
+  },
+  "tabs": {
+    "departure": "Departures",
+    "arrival": "Arrivals",
+    "all": "All"
+  },
+  "search": {
+    "placeholder": "Search by ID, Airline or Flight #",
+    "roleplaceholder": "Search roles",
+    "userplaceholder": "Search Users",
+    "gateplaceholder": "Search Gates",
+    "auditplaceholder":"Search Audits",
+    "claimplaceholder": "Search Claim",
+    "statusplaceholder": "Search Flight Status",
+    "queueplaceholder": "Search Queue",
+    "attributeplaceholder": "Search Attribute",
+    "stationplaceholder": "Search Station",
+    "platformplaceholder": "Search Platform"
+
+  },
+  "login": {
+    "title": "LOGIN",
+    "name": "Name",
+    "password": "Password",
+    "btnName": "Login",
+    "newUser": "New User? ",
+    "newRegister": "Register here"
+  },
+  "nav": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+  },
+  "register": {
+    "title": "Sign Up",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "btnRegister": "Register",
+    "alreadyhaveaccount": "Have already an account?",
+    "loginHere": "Login Here"
+  },
+  "roles": {
+    "title": "Role Management",
+    "Id": "ID",
+    "name": "Name",
+    "action": "Action"
+  },
+  "createRole": {
+    "title": "Role Name",
+    "assignPermission": "Assign Permission",
+    "btnRole": "Create Roles",
+    "editBtn": "Update Role"
+  },
+  "user": {
+    "title": "User Management",
+    "Id": "ID",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "action": "Action",
+
+    "edituser": {
+      "name":"Name",
+      "email":"Email",
+      "roles": "Roles",
+      "password": "Password",
+      "btn": "Update User"
+    }
+  },
+  "createUser": {
+    "title": "Create User",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "password": "Password",
+    "btnSubmit": "Submit"
+  },
+  "gateTab": {
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "all": "All"
+  },
+  "audits": {
+    "title": "Audit Reports",
+    "datepicker-title": "Audit Reports:",
+    "pdfbtn": "PDF",
+    "csvbtn": "CSV",
+    "excelbtn": "EXCEL",
+    "downloadbtn": "Download Reports",
+
+    "auditsTable": {
+      "User":"User",
+      "Audit-Type": "Audit Type",
+      "Audit-ID": "Audit ID",
+      "Old-Values": "Old Values",
+      "New-Values":"New Values",
+      "Event": "Event",
+      "Time": "Time",
+      "IP-Address": "IP Address"
+    }
+  },
+  "profile": {
+    "title": "Profile Settings",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmpassword": "Confirm Password",
+    "changepassword": "Change Password",
+    "savebtn": "Save Changes"
+  
+  },
+  "deletepop": {
+    "message": "Are you sure you want to delete this?",
+    "okbtn": "OK",
+    "cancelbtn": "Cancel"
+  },
+  "gatereports": {
+    "title": "Gate Reports:",
+    "pdf-btn": "PDF",
+    "csv-btn": "CSV",
+    "excel-btn": "EXCEL",
+    "download-btn": "Download Reports"
+  },
+
+  "queue": {
+    "createqueue": {
+      "title": "Create Queue",
+      "name": "Name",
+      "description": "Description",
+      "attributes": "Attribute",
+      "isactive": "Is Active?"
+    },
+    "editqueue": {
+      "title": "Edit Queue",
+      "editbtn":"Update Queue"
+    },
+
+    "editqueueitems": {
+      "title": "Edit Items",
+      "identifier": "Identifier Attribute",
+      "isprocessed": "Is Processed",
+      "payload": "Payload",
+      "editbtn": "Update Item"
+    }
+    
+  },
+  "attribute": {
+    "createattribute": {
+      "title": "Create Attribute",
+      "name": "Name",
+      "description": "Description",
+      "datatype": "Data-Type"
+    },
+    "editattribute": {
+      "title": "Edit Attribute",
+      "editbtn": "Update Attribute"
+    }
+  },
+
+  "stations": {
+    "createstation": {
+      "id": "ID",
+      "stationname": "Name",
+      "location": "Location",
+      "state": "State",
+      "city": "City",
+      "isenabled": "Is Enabled",
+      "action": "Action"
+    }
+  },
+
+  "trainsignals": {
+    "managesignals": {
+      "station": "Station",
+      "platform": "Platform",
+      "arrivaltime": "Arrival Time",
+      "departuretime": "Departure Time",
+      "destinationtime": "Destination Time"
+    }
+  },
+
+  "platforms": {
+    "createplatform": {
+      "platformid": "Platform ID",
+      "platformname": "Platform Name",
+      "stationname": "Station Name",
+      "isenabled": "Is Enabled",
+      "action": "Action"
+
+    }
+  }
+}

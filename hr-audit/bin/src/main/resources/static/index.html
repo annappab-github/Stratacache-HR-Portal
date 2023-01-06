@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Data Listener</title>
+</head>
+<body>
+<h2>Location Data :</h2>
+
+<div id="list">Waiting for Data..</div>
+
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+
+<script>
+
+var myData;
+var setHeader;
+$(document).ready(function () {
+
+
+var parser, xmlDoc, text;
+
+  setInterval(function()
+		{
+
+	  $.ajax({
+		  url: '/recovery/getAll',
+		  type: 'GET',
+		  dataType: 'text',
+		  Accept:'application/json',
+		  ContentType:'application/json',
+		  success: function(text) {
+		   text = text;
+		   console.log("data :" + text);
+		   var div = document.getElementById('list');
+		    div.innerHTML = text;
+		  },
+		});
+		}, 2000);
+
+
+});
+</script>
+</body>
+</html>

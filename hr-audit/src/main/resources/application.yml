@@ -1,0 +1,9 @@
+recovery:
+  recoveryUrl: https://apidc.ubrmbqa.com/gems/sit/v1.0/location/recovery
+  oauth2:
+    client:
+      grant-type: client_credentials
+      clientId: c0036
+      clientSecret: f209911b-2f96-4a34-9c7d-4f1beaa6b1f1
+      accessTokenUri: https://apidc.ubrmbqa.com/getToken
+      scope: recover:hours

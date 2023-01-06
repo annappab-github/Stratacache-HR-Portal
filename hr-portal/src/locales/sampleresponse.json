@@ -1,0 +1,158 @@
+{
+	"data": [
+		{
+			"foldername": "ANNOUNCEMENTS",
+			"folderimage": "folder.svg",
+			"subfolders": [],
+			"files": [
+				{
+					"name": "announcement-apac.xlsx",
+					"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+				}
+			]
+		},
+		{
+			"foldername": "DOCUMENTS",
+			"folderimage": "folder.svg",
+			"id": 100,
+			"subfolders": [
+				{
+					"foldername": "all",
+					"folderimage": "folder.svg",
+					"id": 101,
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				},
+				{
+					"foldername": "aus",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				},
+				{
+					"foldername": "faq",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				},
+				{
+					"foldername": "ind",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				},
+				{
+					"foldername": "jap",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				},
+				{
+					"foldername": "org",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				},
+				{
+					"foldername": "sg",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				}
+			],
+			"files": []
+		},
+		{
+			"foldername": "EMPLOYEE",
+			"folderimage": "folder.svg",
+			"subfolders": [
+				{
+					"foldername": "pic",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				}
+			],
+			"files": [
+				{
+					"name": "announcement-apac.xlsx",
+					"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+				}
+			]
+		},
+		{
+			"foldername": "HOLIDAYS",
+			"folderimage": "folder.svg",
+			"subfolders": [],
+			"files": [
+				{
+					"name": "announcement-apac.xlsx",
+					"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+				}
+			]
+		},
+		{
+			"foldername": "LEAVES",
+			"folderimage": "folder.svg",
+			"subfolders": [
+				{
+					"foldername": "balance",
+					"folderimage": "folder.svg",
+					"subfolders": [],
+					"files": [
+						{
+							"name": "announcement-apac.xlsx",
+							"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+						}
+					]
+				}
+			],
+			"files": [
+				{
+					"name": "announcement-apac.xlsx",
+					"path": "C:\\ProgramData\\Scala\\hrm-portal\\assets\\announcements\\announcement-apac.xlsx"
+				}
+			]
+		}
+	]
+}

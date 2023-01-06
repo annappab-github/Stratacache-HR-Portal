@@ -1,0 +1,1226 @@
+{
+    "ARRIVAL": [
+        {
+            "FlightGuid": "94ECE0EEAC2945EABA0A54B015A021E9",
+            "Acid": {
+                "Airline": {
+                    "Code": "AA",
+                    "CodeNamespace": "Iata",
+                    "Name": null
+                },
+                "FlightNumber": "401"
+            },
+            "DepartureAirport": {
+                "Code": "DAB",
+                "CodeNamespace": "Iata",
+                "Name": "DAYTONA BEACH INTL",
+                "Location": {
+                    "CityName": "DAYTONA BEACH",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": null,
+                "Local": null
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T17:30Z",
+                "Local": "2021-11-10T12:30"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T18:47Z",
+                "Local": "2021-11-10T13:47"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "Landed",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [],
+            "ArrDelayReason": [],
+            "FaaId": {
+                "Code": "ERU",
+                "CodeNamespace": "Icao",
+                "FlightId": "401"
+            },
+            "Codeshares": null,
+            "OutGate": null,
+            "InAir": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T17:46Z",
+                "DateTimeLocal": "2021-11-10T12:46",
+                "SourceType": "FlightViewData"
+            },
+            "Landed": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T19:18Z",
+                "DateTimeLocal": "2021-11-10T14:18",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": null,
+            "DepartureTerminal": null,
+            "DepartureGate": null,
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": null,
+            "LegSequenceNumber": 0,
+            "NumLegs": 0,
+            "Aircraft": {
+                "Code": "C172",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "G"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": null,
+            "RemainingTime": null,
+            "ElapsedTime": null,
+            "ScheduledDuration": "01:17:00",
+            "Map": null,
+            "Position": null,
+            "Route": null
+        },
+        {
+            "FlightGuid": "44b9be3ac19e4749b64c8a9ee78cf835",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "1890"
+            },
+            "DepartureAirport": {
+                "Code": "SBN",
+                "CodeNamespace": "Iata",
+                "Name": "SOUTH BEND REGIONAL",
+                "Location": {
+                    "CityName": "SOUTH BEND",
+                    "StateId": "IN",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-12-10",
+                "Local": "2021-12-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-12-10T16:17Z",
+                "Local": "2021-12-10T16:17"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-12-10T15:41Z",
+                "Local": "2021-12-10T15:41"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "InAir",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": {
+                "Code": "AAY",
+                "CodeNamespace": "Icao",
+                "FlightId": "1890"
+            },
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T17:21Z",
+                "DateTimeLocal": "2021-11-10T12:21",
+                "SourceType": "AirlineData"
+            },
+            "InAir": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T17:32Z",
+                "DateTimeLocal": "2021-11-10T12:32",
+                "SourceType": "FlightViewData"
+            },
+            "Landed": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T19:33Z",
+                "DateTimeLocal": "2021-11-10T14:33",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T19:32Z",
+                "DateTimeLocal": "2021-11-10T14:32",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": "9",
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": "12",
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "A320",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "L",
+                "TailNumber": "N245NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "1920"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-10T16:27Z",
+                    "Local": "2021-11-10T11:27"
+                }
+            },
+            "RemainingTime": "00:09:43",
+            "ElapsedTime": "02:01:17",
+            "ScheduledDuration": "02:24:00",
+            "Map": null,
+            "Position": {
+                "Altitude": "13000",
+                "Speed": "401",
+                "Heading": "162"
+            },
+            "Route": null
+        },
+        {
+            "FlightGuid": "74bf1507d3bd4571ab7ff50c301f7966",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "2026"
+            },
+            "DepartureAirport": {
+                "Code": "MLI",
+                "CodeNamespace": "Iata",
+                "Name": "QUAD CITY INTL",
+                "Location": {
+                    "CityName": "MOLINE",
+                    "StateId": "IL",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-11-10",
+                "Local": "2021-11-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T17:51Z",
+                "Local": "2021-11-10T11:51"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T20:16Z",
+                "Local": "2021-11-10T15:16"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "InAir",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": {
+                "Code": "AAY",
+                "CodeNamespace": "Icao",
+                "FlightId": "2026"
+            },
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T17:40Z",
+                "DateTimeLocal": "2021-11-10T11:40",
+                "SourceType": "AirlineData"
+            },
+            "InAir": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T17:50Z",
+                "DateTimeLocal": "2021-11-10T11:50",
+                "SourceType": "FlightViewData"
+            },
+            "Landed": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:03Z",
+                "DateTimeLocal": "2021-11-10T15:03",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:03Z",
+                "DateTimeLocal": "2021-11-10T15:03",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": "B10",
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "A320",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "L",
+                "TailNumber": "N259NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "2023"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-10T17:01Z",
+                    "Local": "2021-11-10T11:01"
+                }
+            },
+            "RemainingTime": "00:40:43",
+            "ElapsedTime": "01:42:17",
+            "ScheduledDuration": "02:25:00",
+            "Map": null,
+            "Position": {
+                "Altitude": "35000",
+                "Speed": "452",
+                "Heading": "161"
+            },
+            "Route": null
+        },
+        {
+            "FlightGuid": "6cd3abbf41174826a904db0651d001f6",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "2627"
+            },
+            "DepartureAirport": {
+                "Code": "TYS",
+                "CodeNamespace": "Iata",
+                "Name": "MC GHEE TYSON",
+                "Location": {
+                    "CityName": "KNOXVILLE",
+                    "StateId": "TN",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-11-10",
+                "Local": "2021-11-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T18:39Z",
+                "Local": "2021-11-10T13:39"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T20:16Z",
+                "Local": "2021-11-10T15:16"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "InAir",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": {
+                "Code": "AAY",
+                "CodeNamespace": "Icao",
+                "FlightId": "2627"
+            },
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T19:03Z",
+                "DateTimeLocal": "2021-11-10T14:03",
+                "SourceType": "AirlineData"
+            },
+            "InAir": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T19:12Z",
+                "DateTimeLocal": "2021-11-10T14:12",
+                "SourceType": "FlightViewData"
+            },
+            "Landed": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:32Z",
+                "DateTimeLocal": "2021-11-10T15:32",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:32Z",
+                "DateTimeLocal": "2021-11-10T15:32",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": "2",
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "A320",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "L",
+                "TailNumber": "N241NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "2680"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-10T17:49Z",
+                    "Local": "2021-11-10T12:49"
+                }
+            },
+            "RemainingTime": "01:09:43",
+            "ElapsedTime": "00:19:17",
+            "ScheduledDuration": "01:37:00",
+            "Map": null,
+            "Position": {
+                "Altitude": "20100",
+                "Speed": "382",
+                "Heading": "188"
+            },
+            "Route": null
+        },
+        {
+            "FlightGuid": "e05d5686ae8d4b179cde7422dc2a79bf",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "1804"
+            },
+            "DepartureAirport": {
+                "Code": "ATW",
+                "CodeNamespace": "Iata",
+                "Name": "OUTAGAMIE COUNTY REGIONAL",
+                "Location": {
+                    "CityName": "APPLETON",
+                    "StateId": "WI",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-11-10",
+                "Local": "2021-11-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T17:52Z",
+                "Local": "2021-11-10T11:52"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T20:36Z",
+                "Local": "2021-11-10T15:36"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "InAir",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": {
+                "Code": "AAY",
+                "CodeNamespace": "Icao",
+                "FlightId": "1804"
+            },
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T17:46Z",
+                "DateTimeLocal": "2021-11-10T11:46",
+                "SourceType": "AirlineData"
+            },
+            "InAir": {
+                "Accuracy": "Actual",
+                "DateTimeUtc": "2021-11-10T17:55Z",
+                "DateTimeLocal": "2021-11-10T11:55",
+                "SourceType": "FlightViewData"
+            },
+            "Landed": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:27Z",
+                "DateTimeLocal": "2021-11-10T15:27",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:27Z",
+                "DateTimeLocal": "2021-11-10T15:27",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": null,
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "A320",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "L",
+                "TailNumber": "N251NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "1803"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-10T17:02Z",
+                    "Local": "2021-11-10T11:02"
+                }
+            },
+            "RemainingTime": "01:04:43",
+            "ElapsedTime": "01:36:17",
+            "ScheduledDuration": "02:44:00",
+            "Map": null,
+            "Position": {
+                "Altitude": "39000",
+                "Speed": "453",
+                "Heading": "162"
+            },
+            "Route": null
+        }
+    ],
+    "DEPARTURE": [
+        {
+            "FlightGuid": "D0E9D340CDDE4B2C9E7727CC08B79EBF",
+            "Acid": {
+                "Airline": {
+                    "Code": "FWK",
+                    "CodeNamespace": "Icao",
+                    "Name": "FlightWorks"
+                },
+                "FlightNumber": "37"
+            },
+            "DepartureAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "HKY",
+                "CodeNamespace": "Iata",
+                "Name": "HICKORY REGIONAL",
+                "Location": {
+                    "CityName": "HICKORY",
+                    "StateId": "NC",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": null,
+                "Local": null
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T20:00Z",
+                "Local": "2021-11-10T15:00"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T21:22Z",
+                "Local": "2021-11-10T16:22"
+            },
+            "Scheduled": false,
+            "GeneralAviation": false,
+            "Status": "Proposed",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [],
+            "ArrDelayReason": [],
+            "FaaId": {
+                "Code": "FWK",
+                "CodeNamespace": "Icao",
+                "FlightId": "37"
+            },
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T19:13Z",
+                "DateTimeLocal": "2021-11-10T14:13",
+                "SourceType": "FlightViewData"
+            },
+            "InAir": null,
+            "Landed": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:27Z",
+                "DateTimeLocal": "2021-11-10T15:27",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": null,
+            "DepartureTerminal": null,
+            "DepartureGate": null,
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": null,
+            "LegSequenceNumber": 0,
+            "NumLegs": 0,
+            "Aircraft": {
+                "Code": "CL30",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "L"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": null,
+            "RemainingTime": null,
+            "ElapsedTime": null,
+            "ScheduledDuration": "01:22:00",
+            "Map": null,
+            "Position": null,
+            "Route": null
+        },
+        {
+            "FlightGuid": "2d83f5089ca54e878ba4977b922dc5ac",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "1992"
+            },
+            "DepartureAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "ELM",
+                "CodeNamespace": "Iata",
+                "Name": "ELMIRA\/CORNING REGIONAL",
+                "Location": {
+                    "CityName": "ELMIRA\/CORNING",
+                    "StateId": "NY",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-11-10",
+                "Local": "2021-11-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T20:31Z",
+                "Local": "2021-11-10T15:31"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T23:01Z",
+                "Local": "2021-11-10T18:01"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "Scheduled",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": null,
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T20:31Z",
+                "DateTimeLocal": "2021-11-10T15:31",
+                "SourceType": "AirlineData"
+            },
+            "InAir": null,
+            "Landed": null,
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T23:01Z",
+                "DateTimeLocal": "2021-11-10T18:01",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": "8",
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "320",
+                "CodeNamespace": "Iata",
+                "OptionalEquipment": null,
+                "WeightClass": null,
+                "TailNumber": "N245NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "1890"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-10T19:41Z",
+                    "Local": "2021-11-10T14:41"
+                }
+            },
+            "RemainingTime": null,
+            "ElapsedTime": null,
+            "ScheduledDuration": "02:30:00",
+            "Map": null,
+            "Position": null,
+            "Route": null
+        },
+        {
+            "FlightGuid": "703b19e0c63e4a179f3b681bd2e9b1cc",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "2643"
+            },
+            "DepartureAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "TYS",
+                "CodeNamespace": "Iata",
+                "Name": "MC GHEE TYSON",
+                "Location": {
+                    "CityName": "KNOXVILLE",
+                    "StateId": "TN",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-11-10",
+                "Local": "2021-11-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T21:01Z",
+                "Local": "2021-11-10T16:01"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T22:36Z",
+                "Local": "2021-11-10T17:36"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "Scheduled",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": {
+                "Code": "AAY",
+                "CodeNamespace": "Icao",
+                "FlightId": "2643"
+            },
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T21:15Z",
+                "DateTimeLocal": "2021-11-10T16:15",
+                "SourceType": "AirlineData"
+            },
+            "InAir": null,
+            "Landed": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T22:17Z",
+                "DateTimeLocal": "2021-11-10T17:17",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T22:50Z",
+                "DateTimeLocal": "2021-11-10T17:50",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": "10",
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": "2",
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "A320",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "L",
+                "TailNumber": "N241NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "2627"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-10T20:16Z",
+                    "Local": "2021-11-10T15:16"
+                }
+            },
+            "RemainingTime": null,
+            "ElapsedTime": null,
+            "ScheduledDuration": "01:35:00",
+            "Map": null,
+            "Position": null,
+            "Route": null
+        },
+        {
+            "FlightGuid": "8e0eeb87d30149e694908424d075c3f1",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "1947"
+            },
+            "DepartureAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "TVC",
+                "CodeNamespace": "Iata",
+                "Name": "CHERRY CAPITAL",
+                "Location": {
+                    "CityName": "TRAVERSE CITY",
+                    "StateId": "MI",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-11-10",
+                "Local": "2021-11-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T21:06Z",
+                "Local": "2021-11-10T16:06"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T23:57Z",
+                "Local": "2021-11-10T18:57"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "Scheduled",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": {
+                "Code": "AAY",
+                "CodeNamespace": "Icao",
+                "FlightId": "1947"
+            },
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T21:06Z",
+                "DateTimeLocal": "2021-11-10T16:06",
+                "SourceType": "AirlineData"
+            },
+            "InAir": null,
+            "Landed": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T23:34Z",
+                "DateTimeLocal": "2021-11-10T18:34",
+                "SourceType": "FlightViewData"
+            },
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T23:57Z",
+                "DateTimeLocal": "2021-11-10T18:57",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": "7",
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "A320",
+                "CodeNamespace": "Icao",
+                "OptionalEquipment": null,
+                "WeightClass": "L",
+                "TailNumber": "N251NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "1804"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-10T20:36Z",
+                    "Local": "2021-11-10T15:36"
+                }
+            },
+            "RemainingTime": null,
+            "ElapsedTime": null,
+            "ScheduledDuration": "02:51:00",
+            "Map": null,
+            "Position": null,
+            "Route": null
+        },
+        {
+            "FlightGuid": "18339b7cc5024f4593282951049d6bf7",
+            "Acid": {
+                "Airline": {
+                    "Code": "G4",
+                    "CodeNamespace": "Iata",
+                    "Name": "Allegiant Air"
+                },
+                "FlightNumber": "2005"
+            },
+            "DepartureAirport": {
+                "Code": "PIE",
+                "CodeNamespace": "Iata",
+                "Name": "ST PETERSBURG-CLEARWATER INTL",
+                "Location": {
+                    "CityName": "ST PETERSBURG-CLEARWATER",
+                    "StateId": "FL",
+                    "CountryId": "US"
+                }
+            },
+            "ArrivalAirport": {
+                "Code": "FWA",
+                "CodeNamespace": "Iata",
+                "Name": "FORT WAYNE INTERNATIONAL",
+                "Location": {
+                    "CityName": "FORT WAYNE",
+                    "StateId": "IN",
+                    "CountryId": "US"
+                }
+            },
+            "OriginationDate": {
+                "Utc": "2021-11-10",
+                "Local": "2021-11-10"
+            },
+            "ScheduledDeparture": {
+                "Utc": "2021-11-10T21:26Z",
+                "Local": "2021-11-10T16:26"
+            },
+            "ScheduledArrival": {
+                "Utc": "2021-11-10T23:43Z",
+                "Local": "2021-11-10T18:43"
+            },
+            "Scheduled": true,
+            "GeneralAviation": false,
+            "Status": "Scheduled",
+            "DepartureScheduleStatus": null,
+            "ArrivalScheduleStatus": null,
+            "DiversionStatus": null,
+            "DepDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "ArrDelayReason": [
+                {
+                    "Code": 6,
+                    "Subcode": " "
+                }
+            ],
+            "FaaId": null,
+            "Codeshares": null,
+            "OutGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T21:26Z",
+                "DateTimeLocal": "2021-11-10T16:26",
+                "SourceType": "AirlineData"
+            },
+            "InAir": null,
+            "Landed": null,
+            "InGate": {
+                "Accuracy": "Estimated",
+                "DateTimeUtc": "2021-11-10T23:43Z",
+                "DateTimeLocal": "2021-11-10T18:43",
+                "SourceType": "AirlineData"
+            },
+            "DepartureTerminal": null,
+            "DepartureGate": "8",
+            "CheckinCounter": null,
+            "ArrivalTerminal": null,
+            "ArrivalGate": null,
+            "Baggage": null,
+            "ServiceType": "J",
+            "LegSequenceNumber": 1,
+            "NumLegs": 1,
+            "Aircraft": {
+                "Code": "320",
+                "CodeNamespace": "Iata",
+                "OptionalEquipment": null,
+                "WeightClass": null,
+                "TailNumber": "N296NV"
+            },
+            "AlternateDepartureAirport": null,
+            "AlternateArrivalAirport": null,
+            "UplineInfo": null,
+            "DownlineInfo": null,
+            "AircraftPreviousFlightLeg": {
+                "FlightId": {
+                    "Airline": {
+                        "Code": "G4",
+                        "CodeNamespace": "Iata",
+                        "Name": "Allegiant Air"
+                    },
+                    "FlightNumber": "1899"
+                },
+                "ScheduledArrival": {
+                    "Utc": "2021-11-09T04:40Z",
+                    "Local": "2021-11-08T23:40"
+                }
+            },
+            "RemainingTime": null,
+            "ElapsedTime": null,
+            "ScheduledDuration": "02:17:00",
+            "Map": null,
+            "Position": null,
+            "Route": null
+        }
+    ]
+}

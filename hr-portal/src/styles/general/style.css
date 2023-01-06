@@ -1,0 +1,61 @@
+.loader {
+    position: fixed;
+    top: 0px;
+    left: 60px;
+    width: calc(100% - 60px);
+    height: 100%;
+    background-color: #eceaea;
+    background-image: url("../../assets/loading.gif");
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: calc(calc(50%) - 30px);
+    z-index: 999;
+}
+
+.topBg {
+    background-image: url("../../assets/Portal_Banner.png");
+    height: 25%;
+    width: 100%;
+    /* position: relative; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    margin-left: 2%;
+}
+
+.search-bar {
+    margin-top: 6px;
+}
+
+.modal-mask {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: table;
+    transition: opacity 0.3s ease;
+}
+
+.modal-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.modal-content {
+    width: 500px !important;
+}
+
+.table-header {
+    text-align: center;
+    background-color: #EE3234;
+    font-size: 12px;
+    font-weight: 900;
+    color: white;
+    border: solid 3px #e9ecef;
+}
